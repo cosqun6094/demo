@@ -15,7 +15,7 @@ public class DemoGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Demo Demo");
+        System.out.println("Demo De");
     }
     
 }
